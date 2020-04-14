@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">VMSeparatorFragment</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tab_text1">envia</string>
+    <string name="tab_text2">recibe</string>
+</resources>
